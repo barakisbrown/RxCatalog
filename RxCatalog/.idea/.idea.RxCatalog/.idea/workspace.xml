@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4abb2ce-5997-412e-9eda-6f1ae28195b4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2077075489">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="13" />
+          <entry key="cshtml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="13" />
+          <entry key="Razor" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="607" />
+          <entry key="cshtml" value="89" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="607" />
+          <entry key="Razor" value="89" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RxCatalog/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="32" column="106" selection-start-line="32" selection-start-column="106" selection-end-line="32" selection-end-column="106" />
+              <folding>
+                <marker date="1543279313543" expanded="false" signature="6:263" ph="..." />
+                <marker date="1543279313543" expanded="true" signature="284:2216" ph="{...}" />
+                <marker date="1543279313543" expanded="true" signature="311:2214" ph="{...}" />
+                <marker date="1543279313543" expanded="true" signature="370:433" ph="{...}" />
+                <marker date="1543279313543" expanded="true" signature="656:1276" ph="{...}" />
+                <marker date="1543279313543" expanded="true" signature="729:1006" ph="{...}" />
+                <marker date="1543279313543" expanded="true" signature="1464:2208" ph="{...}" />
+                <marker date="1543279313543" expanded="true" signature="1511:1588" ph="{...}" />
+                <marker date="1543279313543" expanded="true" signature="1605:1720" ph="{...}" />
+                <marker date="1543279313543" expanded="true" signature="1863:2196" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RxCatalog/Controllers/StudentController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              <folding>
+                <marker date="1543277046266" expanded="true" signature="64:246" ph="{...}" />
+                <marker date="1543277046266" expanded="true" signature="114:244" ph="{...}" />
+                <marker date="1543277046266" expanded="true" signature="165:238" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RxCatalog/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+              <folding>
+                <marker date="1543279716986" expanded="false" signature="6:178" ph="..." />
+                <marker date="1543279716986" expanded="true" signature="211:1101" ph="{...}" />
+                <marker date="1543279716986" expanded="true" signature="258:1099" ph="{...}" />
+                <marker date="1543279716986" expanded="true" signature="301:440" ph="{...}" />
+                <marker date="1543279716986" expanded="true" signature="358:403" ph="{...}" />
+                <marker date="1543279716986" expanded="true" signature="478:598" ph="{...}" />
+                <marker date="1543279716986" expanded="true" signature="638:742" ph="{...}" />
+                <marker date="1543279716986" expanded="true" signature="782:829" ph="{...}" />
+                <marker date="1543279716986" expanded="true" signature="960:1093" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RxCatalog/Models/ItemContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding>
+                <marker date="1543279902312" expanded="false" signature="6:50" ph="..." />
+                <marker date="1543279902312" expanded="true" signature="78:368" ph="{...}" />
+                <marker date="1543279902312" expanded="true" signature="121:366" ph="{...}" />
+                <marker date="1543279902312" expanded="true" signature="209:242" ph="{...}" />
+                <marker date="1543279902312" expanded="true" signature="272:305" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/RxCatalog/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RxCatalog/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RxCatalog/Views/Home/About.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RxCatalog/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RxCatalog/Models/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RxCatalog/Controllers/StudentController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RxCatalog/Models/ItemContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RxCatalog/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RxCatalog/Models/Item.cs" />
+        <option value="$PROJECT_DIR$/RxCatalog/Controllers/StudentController.cs" />
+        <option value="$PROJECT_DIR$/RxCatalog/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/RxCatalog/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/RxCatalog/Startup.cs" />
+        <option value="$PROJECT_DIR$/RxCatalog/Models/ItemContext.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1013" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RxCatalog" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RxCatalog" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RxCatalog" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RxCatalog" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RxCatalog" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RxCatalog" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RxCatalog" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RxCatalog" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RxCatalog" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RxCatalog" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RxCatalog" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Home" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/RxCatalog/bin/Debug/netcoreapp2.1/RxCatalog.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RxCatalog" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="https://localhost:5001;http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RxCatalog/RxCatalog.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser start="true" url="https://localhost:5001" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4abb2ce-5997-412e-9eda-6f1ae28195b4" name="Default Changelist" comment="" />
+      <created>1542833522336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542833522336</updated>
+      <workItem from="1542833524462" duration="881000" />
+      <workItem from="1543259413061" duration="1019000" />
+      <workItem from="1543276530714" duration="1779000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3679000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1013" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18477103" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.4992636" weight="0.3291714" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="REST Client" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.3291714" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50073636" side_tool="true" weight="0.3291714" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32899022" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RxCatalog/Models/Item.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RxCatalog/Views/_ViewImports.cshtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RxCatalog/Views/Home/About.cshtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RxCatalog/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1543279643152" expanded="true" signature="0:41" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RxCatalog/Controllers/StudentController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding>
+            <marker date="1543277046266" expanded="true" signature="64:246" ph="{...}" />
+            <marker date="1543277046266" expanded="true" signature="114:244" ph="{...}" />
+            <marker date="1543277046266" expanded="true" signature="165:238" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RxCatalog/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <folding>
+            <marker date="1543279716986" expanded="false" signature="6:178" ph="..." />
+            <marker date="1543279716986" expanded="true" signature="211:1101" ph="{...}" />
+            <marker date="1543279716986" expanded="true" signature="258:1099" ph="{...}" />
+            <marker date="1543279716986" expanded="true" signature="301:440" ph="{...}" />
+            <marker date="1543279716986" expanded="true" signature="358:403" ph="{...}" />
+            <marker date="1543279716986" expanded="true" signature="478:598" ph="{...}" />
+            <marker date="1543279716986" expanded="true" signature="638:742" ph="{...}" />
+            <marker date="1543279716986" expanded="true" signature="782:829" ph="{...}" />
+            <marker date="1543279716986" expanded="true" signature="960:1093" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RxCatalog/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="32" column="106" selection-start-line="32" selection-start-column="106" selection-end-line="32" selection-end-column="106" />
+          <folding>
+            <marker date="1543279313543" expanded="false" signature="6:263" ph="..." />
+            <marker date="1543279313543" expanded="true" signature="284:2216" ph="{...}" />
+            <marker date="1543279313543" expanded="true" signature="311:2214" ph="{...}" />
+            <marker date="1543279313543" expanded="true" signature="370:433" ph="{...}" />
+            <marker date="1543279313543" expanded="true" signature="656:1276" ph="{...}" />
+            <marker date="1543279313543" expanded="true" signature="729:1006" ph="{...}" />
+            <marker date="1543279313543" expanded="true" signature="1464:2208" ph="{...}" />
+            <marker date="1543279313543" expanded="true" signature="1511:1588" ph="{...}" />
+            <marker date="1543279313543" expanded="true" signature="1605:1720" ph="{...}" />
+            <marker date="1543279313543" expanded="true" signature="1863:2196" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RxCatalog/Models/ItemContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <marker date="1543279902312" expanded="false" signature="6:50" ph="..." />
+            <marker date="1543279902312" expanded="true" signature="78:368" ph="{...}" />
+            <marker date="1543279902312" expanded="true" signature="121:366" ph="{...}" />
+            <marker date="1543279902312" expanded="true" signature="209:242" ph="{...}" />
+            <marker date="1543279902312" expanded="true" signature="272:305" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
