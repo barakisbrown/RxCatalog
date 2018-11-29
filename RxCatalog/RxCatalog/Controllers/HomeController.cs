@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using RxCatalog.Models;
+using RxCatalog.ViewModel;
 
 namespace RxCatalog.Controllers
 {
@@ -12,13 +13,8 @@ namespace RxCatalog.Controllers
     {
         public IActionResult Index()
         {
-            var recordCount = 0;
-            using (var db = new ItemContext())
-            {
-                recordCount = db.Items.Count();
-            }
-            var contentString = $"<h2>There are {recordCount} records in the database</h2>";
-            return Content(contentString);
+            var vm = new ItemViewModel();
+            return View(vm);
         }
 
         public IActionResult About()

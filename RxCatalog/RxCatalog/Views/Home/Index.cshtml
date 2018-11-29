@@ -1,5 +1,23 @@
-﻿@{
+﻿@model RxCatalog.ViewModel.ItemViewModel
+@{
     ViewData["Title"] = "Home Page";
 }
-
-
+<div class="container">
+    <br />
+    <h3>Welcome,   Matthew. This is the summary of your prescriptions so far.</h3>
+    <br />
+    <ul class="list-group">
+        <li class="list-group-item">
+            Number of Prescriptions
+            <span class="badge">@Model.TOTALCOUNT</span>
+        </li>
+        <li class="list-group-item">
+            Prescriptions Total Cost
+            <span class="badge badge-primary">$@Model.TOTALCOST</span>
+        </li>
+        <li class="list-group-item">
+            The average Cost per Item
+            <span class="badge">$@Model.AVGCOST</span>
+        </li>
+    </ul>
+</div>
